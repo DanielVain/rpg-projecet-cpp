@@ -1,0 +1,4 @@
+/Users/danielvainerman/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Users/danielvainerman/Applications/CLion.app/Contents/bin/ninja/mac/aarch64/ninja -G Ninja -S "/Users/danielvainerman/Desktop/Coding/CLION CPP/rpg-project" -B "/Users/danielvainerman/Desktop/Coding/CLION CPP/rpg-project/cmake-build-debug"
+-- Configuring done (0.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: /Users/danielvainerman/Desktop/Coding/CLION CPP/rpg-project/cmake-build-debug

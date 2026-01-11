@@ -1,0 +1,9 @@
+# ninja log v6
+2	641	1768139691576024815	CMakeFiles/rpg_project.dir/Player.cpp.o	a902fda509c5b530
+10	558	1768139721060423123	CMakeFiles/rpg_project.dir/Player.cpp.o	a902fda509c5b530
+9	671	1768139721059540190	CMakeFiles/rpg_project.dir/main.cpp.o	4f2f1890ade2646c
+671	822	1768139721721696613	rpg_project	767aae0706c29f15
+7	612	1768139855021032256	CMakeFiles/rpg_project.dir/main.cpp.o	4f2f1890ade2646c
+613	729	1768139855626620590	rpg_project	767aae0706c29f15
+8	556	1768139890022122757	CMakeFiles/rpg_project.dir/main.cpp.o	4f2f1890ade2646c
+556	670	1768139890569483846	rpg_project	767aae0706c29f15
